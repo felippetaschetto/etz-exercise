@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FireSharp" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ETZWeb.Core\ETZWeb.Core.csproj" />
+    <ProjectReference Include="..\ETZWeb.Entities\ETZWeb.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

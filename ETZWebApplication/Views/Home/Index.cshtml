@@ -1,0 +1,41 @@
+﻿@model List<ETZWeb.Entities.Employee>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Employess</h1>
+
+    <div style="text-align:center;">
+        <table style="width:70%;">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Sex</th>
+                    <th>Date Of Birth</th>
+                    <th>Position</th>
+                    <th>Location</th>
+                    <th>Age</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var employee in Model)
+                {
+                <tr>
+                    <td>@employee.Name</td>
+                    <td>@(employee.Sex ==ETZWeb.Entities.SexEnum.Male ? "Male" : "Female")</td>
+                    <td>@employee.BirthDate.ToShortDateString()</td>
+                    <td>@employee.Position</td>
+                    <td>@employee.Location</td>
+                    <td>@employee.GetAge()</td>
+                </tr>    
+                }
+
+            
+            </tbody>
+        </table>
+    </div>
+    
+</div>

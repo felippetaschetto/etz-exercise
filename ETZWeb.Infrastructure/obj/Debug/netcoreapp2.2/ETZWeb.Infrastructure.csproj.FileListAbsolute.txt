@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\bin\Debug\netcoreapp2.2\ETZWeb.Infrastructure.deps.json
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\bin\Debug\netcoreapp2.2\ETZWeb.Infrastructure.dll
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\bin\Debug\netcoreapp2.2\ETZWeb.Infrastructure.pdb
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\bin\Debug\netcoreapp2.2\ETZWeb.Core.dll
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\bin\Debug\netcoreapp2.2\ETZWeb.Entities.dll
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\bin\Debug\netcoreapp2.2\ETZWeb.Core.pdb
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\bin\Debug\netcoreapp2.2\ETZWeb.Entities.pdb
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\obj\Debug\netcoreapp2.2\ETZWeb.Infrastructure.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\obj\Debug\netcoreapp2.2\ETZWeb.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\obj\Debug\netcoreapp2.2\ETZWeb.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\obj\Debug\netcoreapp2.2\ETZWeb.Infrastructure.AssemblyInfo.cs
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\obj\Debug\netcoreapp2.2\ETZWeb.Infrastructure.csproj.CopyComplete
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\obj\Debug\netcoreapp2.2\ETZWeb.Infrastructure.dll
+C:\Users\felip\Desktop\Exercise\ETZ\ETZWebApplication\ETZWeb.Infrastructure\obj\Debug\netcoreapp2.2\ETZWeb.Infrastructure.pdb
